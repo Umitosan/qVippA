@@ -1,13 +1,13 @@
-# <!--PROJECT NAME HERE-->
+# qVippa
 
-<!--PROJECT DESCRIPTION HERE-->
+A small web app demonstrating the use of Ruby and Sinatra in an attempt to mimic some of the funtionality of Twitter.
 
 ### Prerequisites
 
 Web browser with ES6 compatibility
 Examples: Chrome, Safari
 
-Ruby <!--VERSION HERE-->
+Ruby
 Bundler
 
 ### Installing
@@ -26,7 +26,7 @@ Installation is quick and easy! First you can open this link <!--HEROKU LINK HER
 
 ## Authors
 
-* <!--YOUR NAME HERE-->
+* Dominic Brown, Nickolas, Niklas Long, Nicole Santamaria
 
 ## License
 
